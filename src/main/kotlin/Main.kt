@@ -1,3 +1,6 @@
+import Screens.ArchiveMenu
+
 fun main(args: Array<String>) {
-    println("Hello World!")
+    println("Начало программы заметки")
+    ArchiveMenu()
 }
